@@ -1,6 +1,6 @@
 {
     "FilePath":  "mydr/MyDR-Oct-2020.7z",
+    "Signing":  "mydr/MyDR-Oct-2020.7z.sig",    
     "SHA256 ":  "FC63D4DAE5A9C88E59326E77782497491A51B8528A20E334941E833DDC425ED2",
-    "Signing":  "mydr/MyDR-Oct-2020.7z.sig",
     "Hint":  "DOB"
 }
